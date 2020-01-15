@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "start": "Parse_AWSLogs.js"
+    },
+    "main": "Parse_AWSLogs.js",
+    "dependencies": {
+        "cross-blob": "^1.2.0",
+        "export-to-csv": "^0.2.1",
+        "fs": "0.0.1-security",
+        "json2csv": "^4.5.4"
+    }
+}
